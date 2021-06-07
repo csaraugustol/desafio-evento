@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="Pedro" password="" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/cultural_associa_system?useTimezone=true&amp;serverTimezone=UTC" username="root"/>
+</Context>
